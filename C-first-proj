@@ -1,4 +1,6 @@
 // Program indicates whether an integer is negative 
+//comment from ubuntu
+
 #include <stdio.h>
 int main()
 {

@@ -1,0 +1,7 @@
+Ke
+Sun Oct 30 20:59:23 2022
+CS 222 Network Alias Listing
+wabash 172.66.7.88
+PLATTE 111.22.3.44
+JET 131.250.95.21
+BAKER 131.250.47.63
